@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Flying trap",
+      "image": "https://www.theparisreview.org/blog/wp-content/uploads/2022/06/1024px-venus_flytrap_-_dionaea_muscipula_-_panoramio_7.jpg",
+      "price": 12.02,
+      "id": 8
+    },
+    {
+      "name": "Flying trap",
+      "image": "https://www.theparisreview.org/blog/wp-content/uploads/2022/06/1024px-venus_flytrap_-_dionaea_muscipula_-_panoramio_7.jpg",
+      "price": 0.29,
+      "id": 9
     }
   ]
 }
