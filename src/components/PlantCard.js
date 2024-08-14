@@ -12,13 +12,9 @@ function PlantCard({plant, toggleSoldOut}) {
       <img src={plant.image} alt={plant.name} />
       <h4>{plant.name}</h4>
       <p>Price: {plant.price}</p>
-      {/* {true ? ( */}
         <button className={isSoldOut ? "" : "primary"} onClick={handleToggleSoldOut}>
           {isSoldOut ? "Out of Stock" : "In Stock"}
         </button>
-      {/* ) : (
-        <button>Out of Stock</button>
-      )} */}
     </li>
   );
 }
